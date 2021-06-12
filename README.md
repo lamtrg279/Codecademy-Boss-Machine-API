@@ -1,6 +1,6 @@
 ## Project Overview
 
-In this project, I created an entire API to serve information to a Boss Machine, a unmanagement application. I created routes to manage 'minions', 'million dollar ideas', and to handle all the meetings.
+In this project, I created an entire API to serve information to a Boss Machine, a management application. I created routes to manage 'minions', 'million dollar ideas', and to handle all the meetings.
 
 You can view a video demonstration of the final app here:
 
